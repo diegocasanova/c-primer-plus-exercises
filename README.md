@@ -1,0 +1,1 @@
+# C primer plus 6th edition exercises 
