@@ -1,0 +1,8 @@
+*.c     eol=lf 
+*.h     eol=lf 
+
+*.c     text diff=c
+*.h     text diff=c
+
+*.o     binary
+*.obj   binary
