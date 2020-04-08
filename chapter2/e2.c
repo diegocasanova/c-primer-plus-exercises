@@ -21,7 +21,7 @@ int main(void) {
 
   // exercise 2
   print_exercise(2);
-  printf("Diego Casanova\nMontserrat 10 1D 28015\n");
+  printf("Diego Casanova\nFake Address 147\n");
 
   // exercise 3
   print_exercise(3);
